@@ -1,0 +1,1 @@
+# An-lise-de-Diversidade-2022---Curso-de-Dados-PrograMaria
