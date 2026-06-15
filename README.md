@@ -1,4 +1,4 @@
-# An-lise-de-Diversidade-2022---Curso-de-Dados-PrograMaria
+# Análise-de-Diversidade-2022---Curso-de-Dados-PrograMaria
 
 Objetivo
 Analisar o perfil demográfico, educacional e profissional de pessoas interessadas na área de dados, com foco em diversidade de gênero, raça, escolaridade, senioridade e remuneração.
